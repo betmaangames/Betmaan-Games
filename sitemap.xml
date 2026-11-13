@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://betmaanreviews.com/</loc>
+    <loc>https://betmaan.netlify.app/</loc>
   </url>
   <url>
-    <loc>https://betmaanreviews.com/sports-betting.html</loc>
+    <loc>https://betmaan.netlify.app/sports-betting</loc>
   </url>
   <url>
-    <loc>https://betmaanreviews.com/live-casino.html</loc>
+    <loc>https://betmaan.netlify.app/live-casino</loc>
   </url>
   <url>
-    <loc>https://betmaanreviews.com/reviews.html</loc>
+    <loc>https://betmaan.netlify.app/reviews</loc>
   </url>
   <url>
-    <loc>https://betmaanreviews.com/login.html</loc>
+    <loc>https://betmaan.netlify.app/login</loc>
   </url>
   <url>
-    <loc>https://betmaanreviews.com/signup.html</loc>
+    <loc>https://betmaan.netlify.app/signup</loc>
   </url>
 </urlset>
